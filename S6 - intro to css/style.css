@@ -1,0 +1,76 @@
+#mainbody{
+    background-color: white;
+}
+#mainheading{
+        font-size: 40rpm;
+        text-align: center;
+        background-color: lightgreen ;
+        color: black;
+        border: 10px solid skyblue;
+        border-radius: 20px;
+        box-shadow: 10px 10px 10px;
+
+}
+#CSK{
+        color: darkgoldenrod;
+}
+#GT{
+        color: darkblue;
+}
+#KKR{
+        color: darkorchid;    
+}
+#MI{
+        color: darkslateblue;
+}
+#RR{
+        color: palevioletred;
+}
+#RCB{
+        color: red;
+}
+#SRH{
+        color: orange;
+}
+#chennaiheading{
+        color: brown;
+}
+#cmainbody{
+        color: yellow;
+    }
+    #chennaiheading{
+        color: black;
+    }
+    #chennaitext{
+        color: black;
+    }
+    #chennaiimage{
+        width: 700px;
+    }
+    #gtbody{
+        color: aqua;
+    }
+    #gtheading{
+        color: black;
+    }
+    #gtimage{
+        width: 900px;
+    }
+    #gtpara{
+        color: black;
+    }
+    #kkrbody{
+        color:darkorchid
+    }
+    #mibody{
+        color: darkslateblue;
+    }
+    #rrbody{
+        color: palevioletred;
+    }
+    #rcbbody{
+        color: red;
+    }
+    #srhbody{
+        color: orange;
+    }
